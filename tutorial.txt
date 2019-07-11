@@ -25,3 +25,5 @@ git commit -m "<mensagem de descrição>"
 git push origin master
 
 - Serve para empurrar/levar os arquivos para o repositório real no github
+
+*APRENDER SOBRE PULL REQUEST!!
