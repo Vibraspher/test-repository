@@ -13,8 +13,10 @@ request('http://www.google.com', function (error, response, body) {
 
 		console.log(`Postagem: ${nome}`)
 
+		console.log('')
+
 	})
 
-});
+})
 
-// apenas comentario para teste de pull request
+// apenas comentario para teste de pull request!!
