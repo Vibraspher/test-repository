@@ -13,6 +13,8 @@ request('http://www.google.com', function (error, response, body) {
 
 		console.log(`Postagem: ${nome}`)
 
+		console.log('')
+
 	})
 
 })
