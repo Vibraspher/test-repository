@@ -22,8 +22,24 @@ git commit -m "<mensagem de descrição>"
 
 - Serve para informar aos usuários do repositório o que estará sendo enviado para o repositório no github.
 
-git push origin master
+git push origin <sua branch>
 
-- Serve para empurrar/levar os arquivos para o repositório real no github
+- Serve para empurrar/levar os arquivos para o repositório real no github.
+
+git pull
+
+- Serve para baixar atualizações realizadas no projeto no repositório do github. 
+
+git branch
+
+- Serve para lista todas as branch's criadas na sua máquina.
+
+git checkout <nome da branch existente>
+
+- Serve para trocar de branch para uma outra existente.
+
+git checkout -b "<nome da branch>"
+
+- Serve para criar uma nova branch, por isso o parâmetro -b, com o nome passado, entre aspas se tiver espaços.
 
 *APRENDER SOBRE PULL REQUEST!!
