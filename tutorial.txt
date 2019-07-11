@@ -1,0 +1,27 @@
+git clone <link do repositório que deseja baixar>
+
+- Serve para copiar/baixar os arquivos do repositório da pagina para um local.
+
+git config --global user.email "<email do usuário>"
+
+- Serve para configurar o email do usuário da máquina
+
+git config --global user.name "<nome de usuário>"
+
+- Serve para configurar apenas o nome do usuário da máquina
+
+git add <nome do arquivo>
+
+- Serve para adicionar UM ÚNICO ARQUIVO ao repositório "virtual" que será enviado ao real no github depois que der o commit para informar as alterações e o push origin para envia-lo definitivamente.
+
+git add . 
+
+- Serve para adicionar TODOS OS ARQUIVOS ao repositório "virtual" que serpa enviaro ao real no github depois do commit para informar as alterações e o push origin para envia-lo definitivamente.
+
+git commit -m "<mensagem de descrição>"
+
+- Serve para informar aos usuários do repositório o que estará sendo enviado para o repositório no github.
+
+git push origin master
+
+- Serve para empurrar/levar o arquivo para o repositório real no github
